@@ -1,1 +1,1 @@
-bolt-blogyangu
+natblog
